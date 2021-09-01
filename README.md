@@ -1,5 +1,8 @@
 # Linux Commands
 
+## ssh public key
+`cat ~/.ssh/id_rsa.pub`
+
 ## rsync
  
 Allows synchronization and transfer between local <-> remote files
