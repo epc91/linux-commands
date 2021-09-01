@@ -3,6 +3,9 @@
 ## ssh public key
 `cat ~/.ssh/id_rsa.pub`
 
+## ssh status
+`service ssh status`
+
 ## rsync
  
 Allows synchronization and transfer between local <-> remote files
