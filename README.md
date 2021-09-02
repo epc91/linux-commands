@@ -15,4 +15,4 @@ Allows synchronization and transfer between local <-> remote files
 * --rsh=COMMAND (-e) specify the remote shell to use
 * --exclude=PATTERN exclude the files/dir matching PATTERN
   
-`rsync -avz -e 'ssh' /source/folder/ root:ip /destination/folder --exclude file/dir`
+`rsync -avz -e 'ssh' /source/folder/ root@ip /destination/folder --exclude file/dir`
