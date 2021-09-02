@@ -21,4 +21,4 @@ Allows synchronization and transfer between local <-> remote files
 
 Secure copy
 
-`/source/folder/ root@ip:/destination/folder`
+`scp /source/folder/ root@ip:/destination/folder`
