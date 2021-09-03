@@ -22,3 +22,8 @@ Allows synchronization and transfer between local <-> remote files
 Secure copy
 
 `scp /source/folder/ root@ip:/destination/folder`
+
+## tree
+-L Descend only level directories deep
+
+`tree -L number`
