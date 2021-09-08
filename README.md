@@ -3,8 +3,9 @@
 ## ssh public key
 `cat ~/.ssh/id_rsa.pub`
 
-## ssh status
+## ssh
 `service ssh status`
+`service ssh restart`
 
 ## rsync
  
