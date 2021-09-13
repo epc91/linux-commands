@@ -30,3 +30,6 @@ Secure copy
 -L Descend only level directories deep
 
 `tree -L number`
+
+## curl
+`curl ifconfig.me` show ip
