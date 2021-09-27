@@ -33,3 +33,8 @@ Secure copy
 
 ## curl
 `curl ifconfig.me` show ip
+
+## Screencast
+Setting max time `gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 60`
+
+`ctrl+alt+mayus+r`
